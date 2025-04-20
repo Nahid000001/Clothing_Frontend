@@ -1,0 +1,30 @@
+# 🌐 Node.js dependencies
+node_modules/
+
+# 🚧 Angular/Vite build outputs
+dist/
+.angular/
+.vite/
+
+# 🧠 TypeScript cache and logs
+*.tsbuildinfo
+*.log
+
+# ⚙️ VS Code settings
+.vscode/
+
+# 🌍 Environment files (keep secrets safe)
+.env
+.env.*
+
+# 💻 OS-generated files
+.DS_Store
+Thumbs.db
+
+# 📦 Package manager lock files (optional, if using only npm)
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# 🧪 Coverage reports and test output
+coverage/
